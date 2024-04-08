@@ -10,7 +10,7 @@ const Footer = () => {
           &copy; {new Date().getFullYear()} My Website. All rights reserved.
         </div>
         <div>
-          <a href="#" className="mx-2">Privacy Hello Brother 
+          <a href="#" className="mx-2">Privacy How are you Hello Brother 
           Policy</a>
           <a href="#" className="mx-2">Terms of Service</a>
         </div>
